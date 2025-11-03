@@ -4,6 +4,10 @@ A Model Context Protocol (MCP) server that provides **implementation guidance, c
 
 > **Important**: This is an integration assistant, not an API proxy. It returns implementation guidance and code examples rather than live API data.
 
+<a href="https://glama.ai/mcp/servers/@yangjeep/playground-searchspring-api-assist-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@yangjeep/playground-searchspring-api-assist-mcp/badge" alt="Searchspring Integration Assistant MCP server" />
+</a>
+
 ## Quick Start for Claude Desktop
 
 1. **Install and build**:
